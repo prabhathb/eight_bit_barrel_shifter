@@ -2,6 +2,8 @@ The design of an eight bit barrel shifter is presented here. A Bottom-up design 
 
 The two input muiltiplexer is instantiated six times to create the eight input multiplexer in a heirarchical manner.
 
+The inputs to the eight input multiplexer are connected such that the goals of the eight bit barrel shifter are achieved.
+
 The disgned eight bit barrel shifter supports the follwoing operations. Selection inputs of the muxes are assgined as follows for the operations.
 
 --	000 = transfer							                              (MOV)
