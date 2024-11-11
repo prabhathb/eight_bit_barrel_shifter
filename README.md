@@ -22,6 +22,7 @@ The disgned eight bit barrel shifter supports the follwoing operations. Selectio
 
 --	111 = rotate right through carry				                  (RORC)
 
+The test bench is designed following the steps described in the README of https://github.com/prabhathb/Four_input_AND_gate.
 Snap shots of the test results are also provided.
 
 Test benched was simulated on ModelSim starter edition 2020.1 by Mentor Graphics.
